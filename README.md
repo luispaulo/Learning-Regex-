@@ -1,9 +1,5 @@
-# Expressões regulares (regex)
+# Aprendendo expressões regulares (regex)
 É uma linguagem que permite encontrar padrões bem definidos (pettern) em textos (target). A interpretação do padrão e sua aplicação no alvo é feita por uma Regex Engine, que possui uma implementação para cada linguagem.
-
-## 2 Expressões regulares (regex)
-
-É uma linguagem que permite encontrar padrões bem definidos (**_pettern_**) em textos (**_target_**). A interpretação do **padrão** e sua aplicação no **alvo** é feita por uma _Regex Engine_, que possui uma implementação para cada linguagem.
 
 ### 2.1 _Meta-char_
 
